@@ -1,4 +1,9 @@
 # Blog-Travel
 Authen+WebBlog
 
-Bootstrap4 MDBootstrap
+### Front-end
+ html, css, Bootstrap4, MDBootstrap,
+### Back-end
+Nodejs
+### DataBaes
+mogodb
